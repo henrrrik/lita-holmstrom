@@ -7,7 +7,7 @@
 Lägg till lita-holmstrom i Gemfile i din Lita-installation:
 
 ``` ruby
-gem "lita-holmstrom", github: "henrrrrik/lita-holmstrom"
+gem "lita-holmstrom", github: "henrrrik/lita-holmstrom"
 ```
 
 ## Användning
